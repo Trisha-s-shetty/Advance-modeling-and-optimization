@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-score,ROC-AUC,CV Mean Accuracy,CV Std Dev
+Logistic Regression (baseline),0.8492,0.8387,0.7536,0.7939,0.8801,0.8238,0.0274
+Random Forest (tuned),0.8268,0.8065,0.7246,0.7634,0.8464,0.8271,0.0181
+Gradient Boosting (tuned),0.8101,0.7869,0.6957,0.7385,0.8477,0.8384,0.0199
